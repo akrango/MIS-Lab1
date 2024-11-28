@@ -1,4 +1,4 @@
-# lab1
+# Product catalog project
 
 A new Flutter project.
 
